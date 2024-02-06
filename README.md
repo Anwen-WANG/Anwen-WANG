@@ -3,7 +3,7 @@
 - 🔭 I'm deeply involved in Operations Research, with a keen focus on Scheduling.
 - 🌱 I'm exploring AIGC, MILP, coffee brewing, baking, dancing, and photography (Jack of all trades, master of none~).
 - 👯 I'm seeking collaborators for OR competitions, emotionally stable and academic-minded individuals, or those who love fun and cute aspects of life.
-- 🤔 I'm looking to disprove predictions for the year 2062 about 2031.
+- 🤔 I'm looking to disprove predictions for '2062' about 2031.
 - 💬 Feel free to ask me anything, though it's best to keep an open mind.
 - 📫 How to reach me: Still deciding if I should share (might create a new one later).
 - 😄 Pronouns: she/her
